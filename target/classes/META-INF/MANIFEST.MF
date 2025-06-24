@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 21.0.7
+Implementation-Title: SpringBootRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.advancia
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRest
+Created-By: Maven Integration for Eclipse
+
