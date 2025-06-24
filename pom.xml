@@ -4,6 +4,7 @@
   <artifactId>SpringBootRest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SpringBootRest</name>
+  <packaging>war</packaging>
 <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
